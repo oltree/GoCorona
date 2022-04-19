@@ -540,7 +540,8 @@ body {
 		flex-direction: column;
 	}
 	.experts__video{
-		padding: 0 0 58% 0;
+		flex: 0 0 100%;
+		padding: 0 0 60% 0;
 	}
 	.experts__content{
 		padding: 0;
