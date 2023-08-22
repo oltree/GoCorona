@@ -1,6 +1,6 @@
 # Project Description
 
-The project is a landing page for a health platform. The primary goal is to present the platform's features in an engaging and informative way.
+The project is a landing page for a health platform. The primary goal is to present the platform's features in an engaging and informative way.(https://oltree.github.io/GoCorona-landing/)
 
 ## Technologies
 
